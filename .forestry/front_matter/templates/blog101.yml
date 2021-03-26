@@ -36,3 +36,4 @@ fields:
   description: big letters
 pages:
 - content/posts/first_file.md
+- content/posts/photos/usa_room.md
