@@ -5,6 +5,6 @@ it_s_a_drop_down = "three"
 your_text = "It's a photo"
 
 +++
-Marlyn!
+Marilyn!
 
 ![](/uploads/dsc05076.jpg)
