@@ -34,3 +34,5 @@ fields:
     required: false
   label: Heading
   description: big letters
+pages:
+- content/posts/first_file.md
