@@ -1,5 +1,4 @@
 +++
-draft = true
 heading = "HELLO"
 it_s_a_drop_down = "two"
 your_text = "This is some text"
