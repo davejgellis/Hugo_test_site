@@ -1,4 +1,36 @@
 ---
 label: Blog101
 hide_body: false
-fields: []
+fields:
+- name: your_text
+  type: textarea
+  default: ''
+  config:
+    required: false
+    wysiwyg: false
+    schema:
+      format: markdown
+  label: your text
+  description: just check any old text in here
+- name: it_s_a_drop_down
+  type: select
+  default: []
+  config:
+    required: false
+    options:
+    - one
+    - two
+    - three
+    source:
+      type: simple
+      section: 
+      file: 
+      path: 
+  label: it's a drop down
+  description: drop it like it's hot
+- name: heading
+  type: text
+  config:
+    required: false
+  label: Heading
+  description: big letters
