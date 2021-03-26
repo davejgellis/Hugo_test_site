@@ -35,6 +35,6 @@ fields:
   label: Heading
   description: big letters
 pages:
-- content/Photos/usa_marlyn.md
+- content/Photos/usa_marilyn.md
 - content/posts/first_file.md
 - content/posts/photos/usa_room.md
